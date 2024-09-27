@@ -2,6 +2,10 @@
 
 Welcome to the **Machine Learning With Python** repository! This is your go-to resource for learning, teaching, and mastering Machine Learning concepts with Python. Whether you're a beginner or looking to deepen your understanding, you'll find valuable content here! 🎓✨
 
+
+## Authors
+- [S. S. Zobaer Ahmed](https://www.github.com/sszobaer)
+
 ## 🗂️ Repository Overview
 
 This repository contains:
@@ -27,3 +31,23 @@ This repository contains:
 
 ```bash
 git clone https://github.com/your-repo/machine-learning-with-python.git
+```
+
+## 🔥 Key Highlights
+
+- **Comprehensive Materials:** Everything from the basics to advanced topics.
+
+- **Regular Updates:** New resources and examples added periodically. Stay tuned! 📅
+- **Community Support:** Reach out with questions or contributions. Let's learn together! 🤝
+
+
+## License
+
+It's open for all to education purpose. But all rights reserves to me. You can give me a credit when you use this.
+
+
+## 📢 Connect with me 
+- **Email:** [ahmedsszobaer@gmail.com](mailto:ahmedsszobaer@gmail.com)
+- **GitHub:** [S. S. Zobaer Ahmed](https://www.github.com/sszobaer)
+- **Linkedin:** [S. S. Zobaer Ahmed](https://www.linkedin.com/in/s-s-zobaer-ahmed-209bab296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **YouTube Channel:** [Code Craft Zobaer](https://www.youtube.com/@CodeCraftZobaer)
