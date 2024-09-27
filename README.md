@@ -30,7 +30,7 @@ This repository contains:
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/your-repo/machine-learning-with-python.git
+git clone https://github.com/your-repo/MachineLeraningWithPython.git
 ```
 
 ## 🔥 Key Highlights
