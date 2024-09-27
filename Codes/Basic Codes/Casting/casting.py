@@ -1,0 +1,7 @@
+a = int (3)
+b = float (3)
+c = str ("Zobaer Ahmed")
+print(a)
+print(b)
+print(c)
+print(type(a))
