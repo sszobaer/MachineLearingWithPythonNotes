@@ -1,13 +1,20 @@
-p = int(input("Enter your number p: "))
-n = int(input("Enter your number n:"))
+p = int(input ("Enter a number: "))
+n = int(input("Enter another number: "))
+
 if p>n:
-    print("Hello World!")
-    password = input("Enter a password: ")
-    if password == "aiub":
-        game = input("Do you want to play game[Y/N]").upper()
+    print("Hello")
+    password = int(input("Enter a password in numeric: "))
+    if password == 1234:
+        game = input("Do you want to play the game? [Y/N]").upper()
         if game == "Y":
             print("Ok, play the game")
         else:
             print("Exit")
+    else:
+        print("Wrong Password. Please try again")
 else:
-    print("Bye Bye")
+    print("Bye")
+count = int(input("Please enter a number: "))
+while count>=5:
+    print(count)
+    count+=1 #count = count+1
