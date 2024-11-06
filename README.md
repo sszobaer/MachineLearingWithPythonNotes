@@ -51,3 +51,35 @@ It's open for all to education purpose. But all rights reserves to me. You can g
 - **GitHub:** [S. S. Zobaer Ahmed](https://www.github.com/sszobaer)
 - **Linkedin:** [S. S. Zobaer Ahmed](https://www.linkedin.com/in/s-s-zobaer-ahmed-209bab296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **YouTube Channel:** [Code Craft Zobaer](https://www.youtube.com/@CodeCraftZobaer)
+
+
+                    +------------------+
+                        |    CoinCandy App |  <-- System Boundary
++--------+               +------------------+               +---------------------+
+|  User  |  ---> (1) ----> [User Registration] <--- (2) ---> |  Payment System      |
+|        |               +------------------+               |                     |
+|        |               |                  |               |                     |
+|        |  ---> (3) ----> [Login]           |               |   Withdraw Coins     |
+|        |               +------------------+               |                     |
+|        |               |                  |               |                     |
+|        |  ---> (4) ----> [Forgot Password]  |               |                     |
+|        |               +------------------+               +---------------------+
+|        |               |                  |
+|        |  ---> (5) ----> [Upload VAT Receipt]  <---> (6) ---> [Process VAT Refund] <--->
+|        |               +------------------+               +---------------------+
+|        |               |                  |               |                     |
+|        |  ---> (7) ----> [Transaction History] <--- (8) ---> |   Admin Verification  |
+|        |               +------------------+               +---------------------+
+|        |               |                  |
+|        |  ---> (9) ----> [Send/Receive Coin] |
+|        |               +------------------+    
+|        |               |                  | 
+|        |  ---> (10) ---> [Apply Cashback Offer]|
+|        |               +------------------+
+|        |               |                  |
+|        |  ---> (11) ---> [Account Verification] <--->
+|        |               +------------------+    
+|        |               |                  |
++--------+               |                  |
+                        +------------------+
+
